@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\adicionarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\adicionarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\realizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\realizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|c:\\users\\luanl\\onedrive\\\u00E1rea de trabalho\\projetopizzaria\\projetopizzaria\\realizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\realizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\alterarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\alterarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\alterarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\alterarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\atualizarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\atualizarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\adicionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\adicionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\adicionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\adicionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\pedidos realizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\pedidos realizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\pedidos realizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\pedidos realizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\adicionarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\adicionarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetopizzaria\\atualizarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA7C0CD-65F9-402C-89DB-B7F61B8C8640}|projetoPizzaria\\projetoPizzaria.csproj|solutionrelative:projetopizzaria\\atualizarpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Login.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Login.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Login.cs",
+              "RelativeToolTip": "projetoPizzaria\\Login.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:38:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Form1.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Form1.cs",
+              "RelativeToolTip": "projetoPizzaria\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:16:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Form1.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Form1.cs [Design]",
+              "RelativeToolTip": "projetoPizzaria\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:23:08.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlterarFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AlterarFuncionario.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AlterarFuncionario.cs",
+              "ToolTip": "C:\\Users\\luanl\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AlterarFuncionario.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AlterarFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:43:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdicionarPizza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarPizza.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AdicionarPizza.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarPizza.cs [Design]",
+              "RelativeToolTip": "projetoPizzaria\\AdicionarPizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:00:01.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealizarPedido.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\RealizarPedido.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\RealizarPedido.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\RealizarPedido.cs [Design]",
+              "RelativeToolTip": "projetoPizzaria\\RealizarPedido.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:32:00.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RealizarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\RealizarPedido.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\RealizarPedido.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\RealizarPedido.cs",
+              "RelativeToolTip": "projetoPizzaria\\RealizarPedido.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAADwv5YAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:08:42.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Login.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Login.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Login.cs [Design]",
+              "RelativeToolTip": "projetoPizzaria\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:37:38.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtualizarPizza.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AtualizarPizza.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AtualizarPizza.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AtualizarPizza.cs",
+              "RelativeToolTip": "projetoPizzaria\\AtualizarPizza.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:05.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdicionarFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarFuncionario.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AdicionarFuncionario.cs",
+              "ToolTip": "C:\\Users\\luanl\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AdicionarFuncionario.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AdicionarFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:03:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdicionarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarFuncionario.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AdicionarFuncionario.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarFuncionario.cs",
+              "RelativeToolTip": "projetoPizzaria\\AdicionarFuncionario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:12:05.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlterarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AlterarFuncionario.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AlterarFuncionario.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AlterarFuncionario.cs",
+              "RelativeToolTip": "projetoPizzaria\\AlterarFuncionario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:45:03.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdicionarPizza.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarPizza.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AdicionarPizza.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AdicionarPizza.cs",
+              "RelativeToolTip": "projetoPizzaria\\AdicionarPizza.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:07:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pedidos Realizados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Pedidos Realizados.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Pedidos Realizados.cs",
+              "ToolTip": "C:\\Users\\luanl\\source\\repos\\projetoPizzaria\\projetoPizzaria\\Pedidos Realizados.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoPizzaria\\projetoPizzaria\\Pedidos Realizados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:22:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedidos Realizados.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Pedidos Realizados.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Pedidos Realizados.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Pedidos Realizados.cs",
+              "RelativeToolTip": "projetoPizzaria\\Pedidos Realizados.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv00AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:27:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cardapio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Cardapio.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\luanl\\source\\repos\\projetoPizzaria\\projetoPizzaria\\Cardapio.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoPizzaria\\projetoPizzaria\\Cardapio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:38:13.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cardapio.cs",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Cardapio.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\Cardapio.cs",
+              "RelativeToolTip": "projetoPizzaria\\Cardapio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:50:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AtualizarPizza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanl\\OneDrive\\\u00C1rea de Trabalho\\projetoPizzaria\\projetoPizzaria\\AtualizarPizza.cs",
+              "RelativeDocumentMoniker": "projetoPizzaria\\AtualizarPizza.cs",
+              "ToolTip": "C:\\Users\\luanl\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AtualizarPizza.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoPizzaria\\projetoPizzaria\\AtualizarPizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:23:59.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
